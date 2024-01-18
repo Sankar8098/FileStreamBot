@@ -1,3 +1,4 @@
+Pyrogram==2.0.106
 aiohttp
 pyrofork
 python-dotenv
